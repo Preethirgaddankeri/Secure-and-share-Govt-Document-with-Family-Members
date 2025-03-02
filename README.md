@@ -19,3 +19,25 @@ Members
 
 Technologies HTML, CSS, JS, and Firebase
 
+
+
+# 📁 Copy and Secure Share  
+
+## 🚀 Overview  
+Copy and Secure Share is a web application that allows users to securely copy, store, and share files while ensuring data privacy. The platform provides encrypted sharing, access control, and real-time file management.  
+
+## 🎯 Features  
+✅ Secure file upload and storage  
+✅ Encrypted sharing with access control  
+✅ Role-based permissions (Owner, Viewer, Editor)  
+✅ Expiring share links for added security  
+✅ Multi-device accessibility  
+✅ Logging and audit trail for file access  
+
+## 🛠 Technologies Used  
+- *Frontend:* HTML, CSS, JavaScript  
+- *Backend:* Node.js, Express.js  
+- *Database:* MongoDB / Firebase  
+- *Authentication:* JWT (JSON Web Tokens)  
+- *Encryption:* AES-256 / RSA encryption for secure file sharing  
+- *Hosting:* AWS / Firebase Hosting  
